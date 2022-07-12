@@ -1,0 +1,11 @@
+.nav{
+    background-color: rgb(189, 115, 115);
+    /* margin-top: 0px; */
+    padding: 0%;
+    width: 100%;
+    height: 10vh;
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-evenly;
+
+}
