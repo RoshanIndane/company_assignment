@@ -1,0 +1,93 @@
+{
+    "movie":[
+        {    "id":1,
+            "name":"Doctor Strange",
+            "rating":"7.1",
+            "relDate":"12-05-2022",
+            "img":"https://th.bing.com/th/id/R.25bc460495c5f541da79c8e39f00ded3?rik=HzD2rF541YZirg&riu=http%3a%2f%2fwssrmnn.net%2fwp-content%2fuploads%2f2017%2f04%2f4PiiNGXj1KENTmCBHeN6Mskj2Fq.jpg&ehk=aILAMUPu9MsjXqb%2bYM9E6B8CSNS28EdWjIhkat1AmeI%3d&risl=&pid=ImgRaw&r=0"
+        },
+        {"id":2,
+            "name":"Thor",
+            "rating":"7.0",
+            "relDate":"10-07-2022",
+            "img":"https://comicvine.gamespot.com/a/uploads/scale_medium/11146/111464511/8563899-thor_love_and_thunder_ver3_xxlg.jpg"
+        },{"id":3,
+            "name":"Stranger Things",
+            "rating":"9.2",
+            "relDate":"25-05-2022",
+            "img":"https://upload.wikimedia.org/wikipedia/en/7/78/Stranger_Things_season_4.jpg"
+        },
+        {"id":4,
+            "name":"The Boys",
+            "rating":"8.5",
+            "relDate":"01-09-2022",
+            "img":"https://th.bing.com/th/id/R.99ec52635288997d9c6b559f34a81049?rik=lM7vbgz5hhTuCg&riu=http%3a%2f%2f159.203.108.138%2fwp-content%2fuploads%2f2020%2f08%2fThe-Boys-Key-Art-Homelander.jpg&ehk=uYulJ%2fHshAH2K7Aj4j8TAwUULXcjpOER%2fcEP0LbBBaM%3d&risl=&pid=ImgRaw&r=0"
+        },
+        {"id":5,
+            "name":"Terminal List",
+            "rating":"6.3",
+            "relDate":"20-05-2022",
+            "img":"https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781501180828/the-terminal-list-9781501180828_xlg.jpg"
+        },
+        {"id":6,
+            "name":"Sing 2",
+            "rating":"7.9",
+            "relDate":"24-01-2022",
+            "img":"https://s3-eu-west-1.amazonaws.com/static.screenweek.it/movie/36003/poster/ita/share.jpg?1608565439"
+        },
+        {"id":7,
+            "name":"The Godfather",
+            "rating":"9.1",
+            "relDate":"11-04-2022",
+            "img":"https://th.bing.com/th/id/OIP.zLcymQNJj7Rax9sEZlFCOAHaLH?pid=ImgDet&rs=1"
+        },
+        {"id":8,
+            "name":"Yellowstone",
+            "rating":"5.1",
+            "relDate":"07-06-2022",
+            "img":"https://image.tmdb.org/t/p/original/43nVQqVsrshaOx9GfJq6JstsfCX.jpg"
+        },
+        {"id":9,
+            "name":"Minions",
+            "rating":"6.4",
+            "relDate":"28-04-2021",
+            "img":"https://www.themoviedb.org/t/p/original/oYsloNq9IYADOdzlsfDmuUQvJ2u.jpg"
+        },
+        {"id":10,
+            "name":"Moon Knight",
+            "rating":"7.7",
+            "relDate":"09-07-2021",
+            "img":"https://preview.redd.it/xam39gwydns41.jpg?width=640&crop=smart&auto=webp&s=57b6ae8e7b1c1e6a4b9b5f4ded09f0d1c9a0e05b"
+        },
+        {"id":11,
+            "name":"Fight Club",
+            "rating":"9.4",
+            "relDate":"19-04-2021",
+            "img":"https://th.bing.com/th/id/OIP.4GCE5GW5mYrW-LSZc0G0CwHaLH?pid=ImgDet&rs=1"
+        },
+        {"id":12,
+            "name":"Inception",
+            "rating":"7.4",
+            "relDate":"20-10-2021",
+            "img":"https://th.bing.com/th/id/OIP.6WES5nhdyXVDPrxHG0vCvgHaKz?pid=ImgDet&rs=1"
+        },
+        {"id":13,
+            "name":"The Matrix",
+            "rating":"5.4",
+            "relDate":"03-09-2021",
+            "img":"https://amc-theatres-res.cloudinary.com/v1579117725/amc-cdn/production/2/movies/4100/4111/Poster/p_800x1200_MatrixThe_02072019.jpg"
+        },
+        {"id":14,
+            "name":"Seven",
+            "rating":"5.4",
+            "relDate":"08-04-2021",
+            "img":"https://th.bing.com/th/id/OIP.8QqWMHF-rx1KMLkAVhhs0QHaKf?pid=ImgDet&rs=1"
+        },
+        {"id":15,
+            "name":"City of God",
+            "rating":"8.9",
+            "relDate":"01-04-2011",
+            "img":"https://image.tmdb.org/t/p/original/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg"
+        }
+    ]
+}
