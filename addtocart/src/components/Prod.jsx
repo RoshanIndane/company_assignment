@@ -2,7 +2,6 @@ import React from 'react'
 import list from "../data"
 import Card from './card'
 import "../styles/prod.css"
-import { useState } from 'react'
 
 const Prod = ({handleClick}) => {
 

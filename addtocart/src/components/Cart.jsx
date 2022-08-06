@@ -1,8 +1,29 @@
-import React from 'react'
+import React, { useState } from 'react'
 
-const Cart = () => {
+const Cart = ({cart}) => {
+  console.log(cart)
+  //const {title, author, price, img}=cart;
+
+  //  const [rev, setRev]=useState([cart])
+
+  const handlechange=(id)=>{
+   {cart.filter((e)=>{
+      return e.id!==id
+    })}
+    // setRev(remove)
+  }
+
+   
+
   return (
-    <div>Cart</div>
+    <>
+      {
+        cart.map((e)=>(<div>
+<h1>{e.title}</h1>
+<button onClick={()=>handlechange(e.id)}>Remove</button>
+</div>))
+      }
+    </>
   )
 }
 

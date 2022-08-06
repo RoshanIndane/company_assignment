@@ -3,7 +3,7 @@ import "../styles/prod.css"
 
 const Card = ({e, handleClick}) => {
 
-const {id, title, author, price, img}=e;
+const { title, author, price, img}=e;
 
 
 
